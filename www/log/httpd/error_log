@@ -1,0 +1,237 @@
+[Fri Dec 21 11:48:50.395644 2018] [mime:error] [pid 1] (2)No such file or directory: AH01597: could not open mime types config file /etc/mime.types.
+AH00016: Configuration Failed
+[Fri Dec 21 11:52:45.211264 2018] [mime:error] [pid 1] (2)No such file or directory: AH01597: could not open mime types config file /usr/local/apache2/mime.types.
+AH00016: Configuration Failed
+[Fri Dec 21 11:53:23.877465 2018] [core:emerg] [pid 1] (22)Invalid argument: AH00024: Couldn't set permissions on the rewrite-map mutex; check User and Group directives
+AH00016: Configuration Failed
+[Fri Dec 21 11:56:09.866589 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.27.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 21 11:56:09.876409 2018] [core:error] [pid 1] (2)No such file or directory: AH00099: could not create /usr/local/apache2/run/httpd.pid
+[Fri Dec 21 11:56:09.876431 2018] [core:error] [pid 1] AH00100: httpd: could not log pid to file /usr/local/apache2/run/httpd.pid
+[Fri Dec 21 12:04:51.328962 2018] [mime_magic:error] [pid 1] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /usr/local/apache2/conf/conf/magic
+[Fri Dec 21 12:04:51.330292 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.27.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 21 12:04:51.338918 2018] [mime_magic:error] [pid 1] (2)No such file or directory: AH01515: mod_mime_magic: can't read magic file /usr/local/apache2/conf/conf/magic
+[Fri Dec 21 12:04:51.343252 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Fri Dec 21 12:04:51.343296 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Dec 21 12:06:00.300393 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Fri Dec 21 12:06:03.517717 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.27.0.2. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 21 12:06:03.529158 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Fri Dec 21 12:06:03.529210 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Dec 21 12:13:29.710209 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Fri Dec 21 12:13:32.905827 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.27.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 21 12:13:32.917140 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Fri Dec 21 12:13:32.917184 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Dec 21 12:19:26.084272 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Fri Dec 21 12:19:29.593470 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.27.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 21 12:19:29.608212 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Fri Dec 21 12:19:29.608289 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Dec 21 12:21:46.252212 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Fri Dec 21 12:21:49.748517 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.27.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 21 12:21:49.760027 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Fri Dec 21 12:21:49.760072 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Dec 21 12:23:51.889116 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Fri Dec 21 12:23:55.181092 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.27.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 21 12:23:55.195116 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Fri Dec 21 12:23:55.195164 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Dec 21 12:24:08.311760 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Fri Dec 21 12:24:10.662847 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.27.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 21 12:24:10.674165 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Fri Dec 21 12:24:10.674213 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Dec 21 12:26:05.373073 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Fri Dec 21 12:26:07.807964 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.27.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 21 12:26:07.819148 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Fri Dec 21 12:26:07.819193 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Dec 21 12:31:37.290498 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Fri Dec 21 12:34:21.761463 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.27.0.2. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 21 12:34:21.773255 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Fri Dec 21 12:34:21.773301 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Dec 21 13:13:49.641363 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Fri Dec 21 13:13:55.936016 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.17.0.2. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 21 13:13:55.947705 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Fri Dec 21 13:13:55.947757 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Dec 21 13:15:46.487736 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Fri Dec 21 13:15:49.595489 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.17.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 21 13:15:49.608121 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Fri Dec 21 13:15:49.608176 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Dec 21 13:17:52.179433 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Fri Dec 21 13:17:55.342994 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.17.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 21 13:17:55.354277 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Fri Dec 21 13:17:55.354326 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Dec 21 13:20:07.221169 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Fri Dec 21 13:20:10.337099 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.17.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 21 13:20:10.356091 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Fri Dec 21 13:20:10.356141 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Dec 21 13:31:13.323580 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Fri Dec 21 13:31:16.786955 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.17.0.2. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 21 13:31:16.800166 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Fri Dec 21 13:31:16.800232 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Dec 21 13:32:54.120020 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Fri Dec 21 13:34:03.586352 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.17.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 21 13:34:03.598575 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Fri Dec 21 13:34:03.598619 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Dec 21 13:37:38.326829 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Fri Dec 21 13:42:38.366187 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.17.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 21 13:42:38.379084 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Fri Dec 21 13:42:38.379141 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Dec 21 13:43:53.388493 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Fri Dec 21 13:43:56.197322 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.17.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 21 13:43:56.208953 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Fri Dec 21 13:43:56.209005 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Dec 21 13:45:17.997964 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Fri Dec 21 13:45:39.803450 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.17.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 21 13:45:39.818478 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Fri Dec 21 13:45:39.818528 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Dec 21 13:48:48.576050 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Fri Dec 21 13:48:51.528349 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.17.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 21 13:48:51.556691 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Fri Dec 21 13:48:51.556749 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Dec 21 13:50:38.867225 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Fri Dec 21 13:50:42.805776 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.17.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 21 13:50:42.823243 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Fri Dec 21 13:50:42.823323 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Dec 21 13:54:39.478194 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Fri Dec 21 13:54:45.518693 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.17.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 21 13:54:45.530927 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Fri Dec 21 13:54:45.530996 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Dec 21 13:56:52.151694 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Fri Dec 21 13:58:00.951123 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.27.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 21 13:58:00.966345 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Fri Dec 21 13:58:00.966520 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Fri Dec 21 14:01:40.232179 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Fri Dec 21 14:01:46.722974 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.28.0.3. Set the 'ServerName' directive globally to suppress this message
+[Fri Dec 21 14:01:46.734801 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Fri Dec 21 14:01:46.734851 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Dec 24 06:22:01.739813 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Mon Dec 24 06:22:07.794786 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.29.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 24 06:22:07.812441 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Mon Dec 24 06:22:07.812491 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Dec 24 06:31:03.453290 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Mon Dec 24 06:31:06.045485 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.29.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 24 06:31:06.057354 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Mon Dec 24 06:31:06.057402 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Dec 24 06:33:34.500563 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Mon Dec 24 06:35:04.692893 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.29.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 24 06:35:04.704569 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Mon Dec 24 06:35:04.704624 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Dec 24 06:38:03.927350 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Mon Dec 24 06:38:06.921450 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.29.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 24 06:38:06.932996 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Mon Dec 24 06:38:06.933046 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Dec 24 06:38:13.454693 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Mon Dec 24 06:38:21.885583 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.29.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 24 06:38:21.900187 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Mon Dec 24 06:38:21.900240 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Dec 24 06:42:13.067111 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Mon Dec 24 06:42:18.234661 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.29.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 24 06:42:18.245643 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Mon Dec 24 06:42:18.245686 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Dec 24 06:42:31.365187 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Mon Dec 24 06:42:40.032240 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.30.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 24 06:42:40.049606 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Mon Dec 24 06:42:40.049676 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Dec 24 06:43:34.101770 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Mon Dec 24 06:43:53.475579 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 172.31.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 24 06:43:53.486622 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Mon Dec 24 06:43:53.486677 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Dec 24 06:44:10.817405 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Mon Dec 24 06:55:00.941896 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 24 06:55:00.956910 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Mon Dec 24 06:55:00.956954 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Dec 24 06:55:10.149512 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Mon Dec 24 07:01:31.727541 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 24 07:01:31.740472 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Mon Dec 24 07:01:31.740528 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Dec 24 07:02:59.900668 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Mon Dec 24 10:03:03.471398 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 24 10:03:03.484923 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Mon Dec 24 10:03:03.484968 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Dec 24 10:06:49.954797 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Mon Dec 24 10:06:53.794248 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 24 10:06:53.806023 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Mon Dec 24 10:06:53.806076 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Dec 24 10:08:03.135288 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Mon Dec 24 10:08:05.971905 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 24 10:08:05.983582 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Mon Dec 24 10:08:05.983635 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Dec 24 10:10:19.539343 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Mon Dec 24 10:10:23.434111 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 24 10:10:23.448484 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Mon Dec 24 10:10:23.448540 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Dec 24 10:11:32.809799 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Mon Dec 24 10:11:36.592357 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 24 10:11:36.603478 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Mon Dec 24 10:11:36.603534 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Dec 24 10:12:47.498071 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Mon Dec 24 10:12:49.968192 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 24 10:12:49.987091 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Mon Dec 24 10:12:49.987159 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Dec 24 10:13:06.703822 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Mon Dec 24 10:13:09.020579 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 24 10:13:09.031157 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Mon Dec 24 10:13:09.031203 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Dec 24 10:13:23.167253 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Mon Dec 24 10:13:25.932283 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 24 10:13:25.951708 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Mon Dec 24 10:13:25.951770 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Dec 24 10:13:31.198881 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Mon Dec 24 10:13:46.425156 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 24 10:13:46.436078 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Mon Dec 24 10:13:46.436120 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Dec 24 10:15:02.038524 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Mon Dec 24 10:15:06.951156 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 24 10:15:06.961903 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Mon Dec 24 10:15:06.961947 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Dec 24 10:15:21.783922 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Mon Dec 24 10:15:24.820662 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.0.3. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 24 10:15:24.831413 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Mon Dec 24 10:15:24.831454 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Dec 24 10:16:05.079920 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
+[Mon Dec 24 10:16:07.930077 2018] [suexec:notice] [pid 1] AH01232: suEXEC mechanism enabled (wrapper: /usr/local/apache2/bin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 192.168.0.2. Set the 'ServerName' directive globally to suppress this message
+[Mon Dec 24 10:16:07.942214 2018] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.37 (Unix) configured -- resuming normal operations
+[Mon Dec 24 10:16:07.942274 2018] [core:notice] [pid 1] AH00094: Command line: 'httpd -D FOREGROUND'
+[Mon Dec 24 10:16:16.753791 2018] [mpm_prefork:notice] [pid 1] AH00169: caught SIGTERM, shutting down
